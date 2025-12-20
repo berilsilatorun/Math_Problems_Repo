@@ -1,4 +1,4 @@
-# Odwracanie macierzy
+## Odwracanie macierzy
 
 1. Znajdź macierz odwrotną używając wzoru dla macierzy $2\times2$
    $$
@@ -43,19 +43,10 @@
 
 6. Rozwiąż równania macierzowe:
 
-   a) $$
-      \begin{bmatrix} 2 & 5 \\ 1 & 3 \\end{bmatrix}
-      \cdot X = \begin{bmatrix} 4 & -6 \\ 2 & 1 \\end{bmatrix}
-      $$ 
+   a) $$\begin{bmatrix} 2 & 5 \\\ 1 & 3 \end{bmatrix} \cdot X = \begin{bmatrix} 4 & -6 \\\ 2 & 1 \end{bmatrix}$$
 
-   b) $$
-      \begin{bmatrix} 2 & 1 \\ 5 & 3 \\end{bmatrix}
-      \cdot X = \begin{bmatrix} 1 & 2 \\ 3 & 4 \\end{bmatrix}
-      $$ 
+   b) $$\begin{bmatrix} 2 & 1 \\\ 5 & 3 \end{bmatrix} \cdot X = \begin{bmatrix} 1 & 2 \\\ 3 & 4 \end{bmatrix}$$
 
-   c) $$X \cdot \begin{bmatrix} 1 & 1 & -1 \\ 2 & 1 & 0 \\ 1 & -1 & 1 \\end{bmatrix} = \begin{bmatrix} 1 & -3 & 3 \\ 4 & 3 & 2 \\ 1 & -2 & 5 \\end{bmatrix}$$ 
+   c) $$X \cdot \begin{bmatrix} 1 & 1 & -1 \\\ 2 & 1 & 0 \\\ 1 & -1 & 1 \end{bmatrix} = \begin{bmatrix} 1 & -3 & 3 \\\ 4 & 3 & 2 \\\ 1 & -2 & 5 \end{bmatrix}$$
 
-   d) $$
-      \begin{bmatrix} 3 & 2 & 3 \\ 1 & 1 & 2 \\ 3 & 2 & 4 \\end{bmatrix}
-      \cdot X = \begin{bmatrix} 1 & 2 & 3 \\ 1 & -1 & 2 \\ 2 & 2 & 4 \\end{bmatrix}
-      $$
+   d) $$\begin{bmatrix} 3 & 2 & 3 \\\ 1 & 1 & 2 \\\ 3 & 2 & 4 \end{bmatrix} \cdot X = \begin{bmatrix} 1 & 2 & 3 \\\ 1 & -1 & 2 \\\ 2 & 2 & 4 \end{bmatrix}$$

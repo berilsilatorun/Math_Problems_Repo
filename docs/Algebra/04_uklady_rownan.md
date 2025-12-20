@@ -1,4 +1,4 @@
-# Układy równań liniowych
+## Układy równań liniowych
 
 1. Rozwiąż układ równań:
 
