@@ -1,4 +1,4 @@
-# Pochodne i badanie funkcji
+# Pochodne i badanie przebiegu funkcji
 
 ## Pochodne funkcji
 
@@ -99,7 +99,7 @@
     93) $y = \text{arctg}\frac{\sqrt{1+x^2}-1}{x}$
     94) $y = x^3 \text{arctg}^3 x$
     95) $z = \frac{\arcsin 4y}{1-4y}$
-    96) $y = \frac{4}{\sqrt{3}}\text{arctg}\left[\frac{1}{\sqrt{3}}\left(2\text{tg}\frac{x}{2}+1\right)\right]-x$
+    96) $y = \frac{4}{\sqrt{3}}\text{arctg}\[\frac{1}{\sqrt{3}}(2\text{tg}\frac{x}{2}+1)\right]-x$
     97) $y = \frac{1}{\sqrt{a^2-b^2}}\arcsin\frac{a \cos x+b}{a+b \cos x}$
     98) $y = e^{3x}$
     99) $y = 5e^{4x}$

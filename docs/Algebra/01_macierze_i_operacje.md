@@ -2,8 +2,10 @@
 
 1. Dla macierzy
 
-   $$
-   A=\begin{pmatrix}1 & 2\\ 3 & 4\end{pmatrix} \quad \text{i} \quad B=\begin{pmatrix}0 & -1\\ 2 & 1\end{pmatrix}
+   $$ 
+A=\begin{pmatrix}1 & 2\ 3 & 4
+\end{pmatrix} \quad \text{i} \quad B=\begin{pmatrix}0 & -1\ 2 & 1
+\end{pmatrix}
    $$ 
 
    oblicz
@@ -18,13 +20,17 @@
 2. Dla macierzy
 
    $$ 
-   A=\begin{pmatrix}1 & 0\\ 0 & 2\end{pmatrix}, 
+   A=\begin{pmatrix}1 & 0\ 0 & 2
+\end{pmatrix}, 
    \quad
-   B =\begin{pmatrix}2 & 0\\ 0 & 4\end{pmatrix}, 
+   B =\begin{pmatrix}2 & 0\ 0 & 4
+\end{pmatrix}, 
    \quad
-   C=\begin{pmatrix}4 & 0\\ 0 & 8\end{pmatrix}, 
+   C=\begin{pmatrix}4 & 0\ 0 & 8
+\end{pmatrix}, 
    \quad
-   D=\begin{pmatrix}8 & 0\\ 0 & 16\end{pmatrix}
+   D=\begin{pmatrix}8 & 0\ 0 & 16
+\end{pmatrix}
    $$ 
 
    sprawdź, czy
@@ -38,8 +44,8 @@
 
    $$ 
    C=\begin{pmatrix}
-   1 & 0 & 2\\
-   -1 & 3 & 1\\
+   1 & 0 & 2\
+   -1 & 3 & 1\
    0 & 2 & -1
    \end{pmatrix}.
    $$ 
@@ -53,7 +59,8 @@
 6. $\star$ Dla macierzy
  
    $$ 
-   P=\begin{pmatrix}1 & 1 & 0\\ 0 & 1 & 1\\ 1 & 0 & 1\end{pmatrix}
+   P=\begin{pmatrix}1 & 1 & 0\ 0 & 1 & 1\ 1 & 0 & 1
+\end{pmatrix}
    $$ 
 
    oblicz $P^{2}$ i $P^{3}$. Czy ciąg $P^{n}$ ma zauważalny wzorzec dla $n=1,2,3$?
@@ -64,7 +71,7 @@
 
       $$ 
       R(\theta) = \begin{pmatrix}
-      \cos\theta & -\sin\theta\\
+      \cos\theta & -\sin\theta\
       \sin\theta & \cos\theta
       \end{pmatrix}
       $$ 
@@ -89,15 +96,19 @@
    gdzie
 
    $$ 
-   A = \begin{pmatrix}0 & -\theta\\ \theta & 0\end{pmatrix}
+   A = \begin{pmatrix}0 & -\theta\ \theta & 0
+\end{pmatrix}
    $$ 
 
 9. $\star\star$ Macierze Pauliego są zdefiniowane jako:
 
    $$ 
-   \sigma_x = \begin{pmatrix}0 & 1\\ 1 & 0\end{pmatrix}, \quad
-   \sigma_y = \begin{pmatrix}0 & -i\\ i & 0\end{pmatrix}, \quad
-   \sigma_z = \begin{pmatrix}1 & 0\\ 0 & -1\end{pmatrix}
+   \sigma_x = \begin{pmatrix}0 & 1\ 1 & 0
+\end{pmatrix}, \quad
+   \sigma_y = \begin{pmatrix}0 & -i\ i & 0
+\end{pmatrix}, \quad
+   \sigma_z = \begin{pmatrix}1 & 0\ 0 & -1
+\end{pmatrix}
    $$ 
 
    gdzie $i$ to jednostka urojona. Sprawdź, że:

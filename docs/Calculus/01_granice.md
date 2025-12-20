@@ -1,4 +1,4 @@
-# Granice
+# Granice ciągów i funkcji
 
 ## Granice ciągów
 

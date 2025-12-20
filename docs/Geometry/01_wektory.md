@@ -5,7 +5,7 @@
 $$\mathbf{u}=[1,2,-1]\quad\text{oraz}\quad\mathbf{v}=[2,-1,3]$$
 
    oblicz $\mathbf{u}+\mathbf{v}$, $\mathbf{u}-\mathbf{v}$, iloczyn skalarny $\mathbf{u}\cdot\mathbf{v}$ oraz normy $\|\mathbf{u}\|$
- i $\|\mathbf{v}\|$. Sprawdź, czy wektory są ortogonalne.
+i i $\|\mathbf{v}\|$. Sprawdź, czy wektory są ortogonalne.
 
 2. Dla punktów $A(1,0,2)$, $B(3,-1,1)$ i $C(2,2,0)$ oblicz wektory AB i AC oraz wyznacz kąt między nimi.
 
@@ -27,11 +27,12 @@ $$\mathbf{u}=[1,2,-1]\quad\text{oraz}\quad\mathbf{v}=[2,-1,3]$$
 
 $$ 
 \mathbf{a} \times (\mathbf{b} \times \mathbf{c}) = (\mathbf{a} \cdot \mathbf{c}) \mathbf{b} - (\mathbf{a} \cdot \mathbf{b}) \mathbf{c}. 
-$$
+$$ 
 
 11.  Znajdź najbardziej ogólną postać wektora jednocześnie prostopadłego do
 
-$$\mathbf{v}=[-1,3,0]\qquad oraz \qquad \mathbf{u}=[0,1,1]$$
+$$\mathbf{v}=[-1,3,0]\qquad oraz 
+\qquad \mathbf{u}=[0,1,1]$$
 
 12.  Dla jakich wartości parametrów $p$ i $q$ wektory $\mathbf{a}=[1-p,3,-1]$ i $\mathbf{b}=[-2,4-q,2]$ są równoległe?
 
