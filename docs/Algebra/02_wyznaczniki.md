@@ -1,159 +1,183 @@
 ## Wyznaczniki
 
-1. Oblicz wyznacznik macierzy
+### Zad 1. 
 
-   $$
-   A=\begin{pmatrix}
-   2 & 3 & 1\\
-   0 & -1 & 4\\
-   5 & 2 & 0
-   \end{pmatrix}
-   \quad
-   B=\begin{pmatrix}
-   1 & 2 & 2\\
-   4 & 0 & 0\\
-   7 & 8 & 9
-   \end{pmatrix}
-   \qquad
-   C=\begin{pmatrix}
-   3 & 0 & 2\\
-   2 & 0 & -2\\
-   0 & 1 & 1
-   \end{pmatrix}
-   $$
+Oblicz wyznacznik macierzy
 
-   używając metody Sarrusa.
+$$
+A=\begin{pmatrix}
+2 & 3 & 1\\
+0 & -1 & 4\\
+5 & 2 & 0
+\end{pmatrix}
+\quad
+B=\begin{pmatrix}
+1 & 2 & 2\\
+4 & 0 & 0\\
+7 & 8 & 9
+\end{pmatrix}
+\qquad
+C=\begin{pmatrix}
+3 & 0 & 2\\
+2 & 0 & -2\\
+0 & 1 & 1
+\end{pmatrix}
+$$
 
-2. Wyznacz wyznaczniki używając rozwinięcia Laplace\'a:
+używając metody Sarrusa.
 
-   $$
-   A=\begin{pmatrix}
-   1
-   \end{pmatrix}
-   \quad
-   B=\begin{pmatrix}
-   1 & 0 & 2\\
-   3 & 1 & 0\\
-   4 & 5 & 6
-   \end{pmatrix}
-   \quad
-   C=\begin{pmatrix}
-   1 & 2 & 3 & 4\\
-   0 & 1 & 0 & 0\\
-   0 & 0 & 1 & 1\\
-   0 & 0 & 0 & 2
-   \end{pmatrix} 
-   $$
+### Zad 2. 
 
-3. Pokaż, że jeżeli w macierzy dwa wiersze są równe, to wyznacznik jest równy zero. Daj przykład macierzy $3\times3$ z dwoma równymi wierszami i oblicz jej wyznacznik. Uzasadnij, dlaczego tak się dzieje.
+Wyznacz wyznaczniki używając rozwinięcia Laplace\'a:
 
-4. Oblicz wyznacznik macierzy trójkątnej $T$ o elementach diagonalnych $(3,-2,5,1)$.
+$$
+A=\begin{pmatrix}
+1
+\end{pmatrix}
+\quad
+B=\begin{pmatrix}
+1 & 0 & 2\\
+3 & 1 & 0\\
+4 & 5 & 6
+\end{pmatrix}
+\quad
+C=\begin{pmatrix}
+1 & 2 & 3 & 4\\
+0 & 1 & 0 & 0\\
+0 & 0 & 1 & 1\\
+0 & 0 & 0 & 2
+\end{pmatrix} 
+$$
 
-5. Dla macierzy zależnej od parametru $t$:
+### Zad 3. 
 
-   $$
-   M(t)=\begin{pmatrix}
-   t & 1\\
-   2 & t\\
-   \end{pmatrix}
-   $$
+Pokaż, że jeżeli w macierzy dwa wiersze są równe, to wyznacznik jest równy zero. Daj przykład macierzy $3\times3$ z dwoma równymi wierszami i oblicz jej wyznacznik. Uzasadnij, dlaczego tak się dzieje.
 
-   oblicz $\det(M(t))$ i znajdź wartości $t$, dla których macierz jest singularna.
+### Zad 4. 
 
-6. Rozwiąż równanie
+Oblicz wyznacznik macierzy trójkątnej $T$ o elementach diagonalnych $(3,-2,5,1)$.
 
-   $$
-   \det\begin{pmatrix}
-   x & 3\\
-   2 & x
-   \end{pmatrix} = 0
-   $$
+### Zad 5. 
 
-7. $\star$ Rozwiąż równanie
+Dla macierzy zależnej od parametru $t$:
 
-   $$
-   \det\begin{pmatrix}
-   x & 3\\
-   2 & -x
-   \end{pmatrix} = 0
-   $$
+$$
+M(t)=\begin{pmatrix}
+t & 1\\
+2 & t\\
+\end{pmatrix}
+$$
+
+oblicz $\det(M(t))$ i znajdź wartości $t$, dla których macierz jest singularna.
+
+### Zad 6. 
+
+Rozwiąż równanie
+
+$$
+\det\begin{pmatrix}
+x & 3\\
+2 & x
+\end{pmatrix} = 0
+$$
+
+### Zad 7. 
+
+$\star$ Rozwiąż równanie
+
+$$
+\det\begin{pmatrix}
+x & 3\\
+2 & -x
+\end{pmatrix} = 0
+$$
 
 
-8. Oblicz wyznacznik macierzy
+### Zad 8. 
+
+Oblicz wyznacznik macierzy
 
 
-   $$
-   \begin{vmatrix}
-   x & y & x+y \\
-   y & x+y & x \\
-   x+y & x & y
-   \end{vmatrix}
-   $$
+$$
+\begin{vmatrix}
+x & y & x+y \\
+y & x+y & x \\
+x+y & x & y
+\end{vmatrix}
+$$
 
-9. Wykaż, że zachodzi równość
+### Zad 9. 
 
-   $$
-   \begin{vmatrix}
-   1 & 1 & 1 \\
-   x & y & z \\
-   x^2 & y^2 & z^2
-   \end{vmatrix}
-   = (z-x)(z-y)(y-x)
-   $$
+Wykaż, że zachodzi równość
 
-   Udowodnij podobną równość dla wyznacznika
-   $$
-   \begin{vmatrix}
-   1 & 1 & 1 & 1 \\
-   x & y & z & u \\
-   x^2 & y^2 & z^2 & u^2 \\
-   x^3 & y^3 & z^3 & u^3
-   \end{vmatrix}
-   $$
+$$
+\begin{vmatrix}
+1 & 1 & 1 \\
+x & y & z \\
+x^2 & y^2 & z^2
+\end{vmatrix}
+= (z-x)(z-y)(y-x)
+$$
 
-10. Oblicz wyznacznik macierzy
-   $$
-   \begin{vmatrix}
-   a & a & a \\
-   -a & a & a \\
-   -a & -a & a
-   \end{vmatrix}
-   \quad
-   \text{\&}
-   \quad
-   \begin{vmatrix}
-   a & 0 & b \\
-   0 & c & 0 \\
-   d & 0 & a
-   \end{vmatrix}
-   $$
+Udowodnij podobną równość dla wyznacznika
 
-11. Sprawdź słuszność następujących związków:
+$$
+\begin{vmatrix}
+1 & 1 & 1 & 1 \\
+x & y & z & u \\
+x^2 & y^2 & z^2 & u^2 \\
+x^3 & y^3 & z^3 & u^3
+\end{vmatrix}
+$$
 
-   a)
+### Zad 10. 
 
-   $$
-   \begin{vmatrix}
-   a+b & b \\
-   c+d & d
-   \end{vmatrix}
-   =
-   \begin{vmatrix}
-   a & b \\
-   c & d
-   \end{vmatrix}
-   $$
+Oblicz wyznacznik macierzy
 
-   b)
+$$
+\begin{vmatrix}
+a & a & a \\
+-a & a & a \\
+-a & -a & a
+\end{vmatrix}
+\quad
+\text{\&}
+\quad
+\begin{vmatrix}
+a & 0 & b \\
+0 & c & 0 \\
+d & 0 & a
+\end{vmatrix}
+$$
 
-   $$
-   \begin{vmatrix}
-   a+bx & b \\
-   c+dx & d
-   \end{vmatrix}
-   =
-   \begin{vmatrix}
-   a & b \\
-   c & d
-   \end{vmatrix}
-   $$
+### Zad 11. 
+
+Sprawdź słuszność następujących związków:
+
+a)
+
+$$
+\begin{vmatrix}
+a+b & b \\
+c+d & d
+\end{vmatrix}
+=
+\begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix}
+$$
+
+b)
+
+$$
+\begin{vmatrix}
+a+bx & b \\
+c+dx & d
+\end{vmatrix}
+=
+\begin{vmatrix}
+a & b \\
+c & d
+\end{vmatrix}
+$$
