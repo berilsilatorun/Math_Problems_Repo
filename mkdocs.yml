@@ -71,6 +71,8 @@ plugins:
                 - 'Lista 1': 'anim/4_Metody_probalistyczne/prob_list_1.html'
                 - 'Lista 2': 'anim/4_Metody_probalistyczne/prob_list_2.html'
                 - 'Lista 3': 'anim/4_Metody_probalistyczne/prob_list_3.html'
+                - 'Lista 4': 'anim/4_Metody_probalistyczne/prob_list_4.html'
+                - 'Lista 5': 'anim/4_Metody_probalistyczne/prob_list_5.html'
         - locale: en
           name: English
           default: true
@@ -110,3 +112,5 @@ plugins:
                 - 'List 1': 'anim/4_Metody_probalistyczne/prob_list_1.html'
                 - 'List 2': 'anim/4_Metody_probalistyczne/prob_list_2.html'
                 - 'List 3': 'anim/4_Metody_probalistyczne/prob_list_3.html'
+                - 'List 4': 'anim/4_Metody_probalistyczne/prob_list_4.html'
+                - 'List 5': 'anim/4_Metody_probalistyczne/prob_list_5.html'
