@@ -47,8 +47,8 @@ for lang in "${LANGUAGES[@]}"; do
             -o "$output_file" \
             --pdf-engine=xelatex \
             -V geometry:margin=2cm \
-            -V mainfont="DejaVu Serif" \
-            -V monofont="DejaVu Sans Mono" \
+            # -V mainfont="DejaVu Serif" \
+            # -V monofont="DejaVu Sans Mono" \
             --variable urlcolor=blue \
             --resource-path="$(dirname "$file")"
 
