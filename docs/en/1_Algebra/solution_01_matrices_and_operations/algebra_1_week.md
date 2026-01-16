@@ -68,4 +68,4 @@ Determinant **0** olduğu için bu matrisin tersi **YOKTUR**.
 Since the determinant is **0**, this matrix has **NO** inverse.
 
 ---
-*Prepared by Beril Sila Torun - 2026*
+**Prepared by Beril Sila Torun - 2026**
