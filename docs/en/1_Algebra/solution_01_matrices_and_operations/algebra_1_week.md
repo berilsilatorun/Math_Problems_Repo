@@ -75,10 +75,4 @@ $$
 
 ## 5. Uygulama Sorusu / Practice Question
 
-**Soru / Question:** $A = \begin{pmatrix} 1 & 2 \\ 2 & 4 \end{pmatrix}$ matrisinin tersi var mıdır?
-
-**Çözüm / Solution:** $\text{det}(A) = (1 \cdot 4) - (2 \cdot 2) = 0$.  
-Determinant **0** olduğu için bu matrisin tersi **YOKTUR**.
-
----
-**Prepared by Beril Sila Torun - 2026**
+**Soru / Question:** $A = \begin{pmatrix} 1 & 2 \\ 2 & 4 \end{pmatrix}$ matrisinin tersi var m
